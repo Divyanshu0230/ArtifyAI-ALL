@@ -5,10 +5,18 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18.20.8-339933?logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.21.2-000000?logo=express)](https://expressjs.com/)
 [![MongoDB Atlas](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb)](https://www.mongodb.com/atlas)
+[![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Backend-Render-46E3B7?logo=render)](https://render.com/)
 
 ---
 
-## 📹 Demo
+## 🌐 Live Demo
+
+[Click here to try ArtifyAI!](https://artify-ai-all.vercel.app)
+
+---
+
+## 📹 Demo Video
 
 [![Watch the demo](client/public/favicon.svg)](https://drive.google.com/file/d/1c37mFzeVF72MhH8bY9vpuADPb6eq7P2d/view?usp=sharing)
 
@@ -32,6 +40,22 @@
 
 ---
 
+## 🏗️ Tech Stack & Deployment
+
+| Technology      | Purpose                                                                 |
+|----------------|-------------------------------------------------------------------------|
+| **React**      | Frontend UI framework for building a fast, modern user interface         |
+| **Vite**       | Frontend build tool for lightning-fast development and production builds |
+| **TailwindCSS**| Utility-first CSS framework for rapid, responsive styling               |
+| **Framer Motion** | Animation library for smooth, modern UI transitions                  |
+| **Node.js**    | JavaScript runtime for the backend server                                |
+| **Express**    | Backend web framework for building REST APIs                             |
+| **MongoDB Atlas** | Cloud database for storing users, images, and app data               |
+| **Render**     | Hosting and auto-deployment for the backend (Node.js/Express API)        |
+| **Vercel**     | Hosting and auto-deployment for the frontend (React/Vite app)            |
+
+---
+
 ## 🚀 Features
 
 - **Prompt-to-Image:** Type anything, get a unique AI-generated image.
@@ -45,16 +69,7 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** React, Vite, TailwindCSS, Framer Motion
-- **Backend:** Node.js, Express
-- **Database:** MongoDB Atlas (Cloud)
-- **Authentication:** JWT
-
----
-
-## 🧠 How It Works
+## 🛠️ How It Works
 
 1. **User Registration/Login:**  
    Secure authentication using JWT.
@@ -78,8 +93,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Divyanshu0230/ArtifyAI.git
-cd ArtifyAI
+git clone https://github.com/Divyanshu0230/ArtifyAI-ALL.git
+cd ArtifyAI-ALL
 ```
 
 ### 2. Install Dependencies
